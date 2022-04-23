@@ -1,7 +1,9 @@
-* [首页](/)
+* [房屋装修指南](/)
+
 * [装修准备](preparation/)
   * [装修流程](preparation/flow.md)
   * [装修形式](preparation/way.md)
+
 * [装修设计](design/)
   * [设计图](design/pic.md)
   * [空间](design/space.md)
@@ -13,12 +15,14 @@
   * [厨房](design/kitchen.md)
   * [卫生间](design/toilet.md)
   * [卧室](design/bedroom.md)
+
 * [装修选材](material/)
   * [主材](material/main.md)
   * [辅材(基材)](material/basic.md)
   * [设备](material/equipment.md)
   * [五金](material/metals.md)
   * [配件](material/accessories.md)
+
 * [装修施工](construction/)
   * [施工图](construction/pic.md)
   * [水](construction/water.md)
@@ -26,4 +30,9 @@
   * [木](construction/carpentry.md)
   * [瓦](construction/tile.md)
   * [油](construction/paint.md)
+
 * [软装搭配](soft/)
+
+---
+
+* [Github 链接](https://github.com/lijiancheng0614/house-decoration-guide)

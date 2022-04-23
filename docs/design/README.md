@@ -5,3 +5,8 @@
 * [功能](design/function.md)
 * [风格](design/style.md)
 * [配色](design/color.md)
+* [客厅](design/living_room.md)
+* [餐厅](design/dining_room.md)
+* [厨房](design/kitchen.md)
+* [卫生间](design/toilet.md)
+* [卧室](design/bedroom.md)
