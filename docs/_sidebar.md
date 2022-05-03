@@ -3,6 +3,7 @@
 * [装修准备](preparation/)
   * [装修流程](preparation/flow.md)
   * [装修形式](preparation/way.md)
+  * [收房验房](preparation/check.md)
 
 * [装修设计](design/)
   * [设计图](design/pic.md)
@@ -24,15 +25,20 @@
   * [配件](material/accessories.md)
 
 * [装修施工](construction/)
+  * [施工准备](construction/preparation.md)
   * [施工图](construction/pic.md)
   * [水](construction/water.md)
   * [电](construction/electricity.md)
   * [木](construction/carpentry.md)
   * [瓦](construction/tile.md)
   * [油](construction/paint.md)
+  * [安装](construction/install.md)
+  * [保洁](construction/cleaning.md)
 
 * [软装搭配](soft/)
-
+  * [家电](soft/electrical_appliances.md)
+  * [家具](soft/furniture.md)
+  * [家居配饰](soft/accessories.md)
 ---
 
 * [Github 链接](https://github.com/lijiancheng0614/house-decoration-guide)
