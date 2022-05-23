@@ -18,16 +18,16 @@
 ### 常见嵌入式家电
 
 * 厨房
-    * [嵌入式冰箱](soft/refrigerator.md)
-    * [嵌入式洗碗机](soft/dishwasher.md)
-    * [嵌入式蒸烤一体机](soft/oven.md)
-    * [嵌入式直饮机](soft/drinking_machine.md)
+    * [嵌入式冰箱](家电/冰箱.md)
+    * [嵌入式洗碗机](家电/洗碗机.md)
+    * [嵌入式蒸烤一体机](家电/蒸烤一体机.md)
+    * [嵌入式直饮机](家电/直饮机.md)
 * 卫生间
-    * [嵌入式洗衣机](soft/washing_machine.md)
-    * [嵌入式烘干机](soft/dryer.md)
-    * [嵌入式马桶](soft/toilet.md)
+    * [嵌入式洗衣机](家电/洗衣机.md)
+    * [嵌入式烘干机](家电/烘干机.md)
+    * [嵌入式马桶](家电/马桶.md)
 * 房间
-    * [嵌入式空调](soft/air_conditioner.md)
+    * [嵌入式空调](家电/空调.md)
 
 
 ## 常用家电
