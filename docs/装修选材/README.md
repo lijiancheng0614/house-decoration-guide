@@ -1,10 +1,10 @@
 # 装修选材
 
-* [主材](material/main.md)
-* [辅材(基材)](material/basic.md)
-* [设备](material/equipment.md)
-* [五金](material/metals.md)
-* [配件](material/accessories.md)
+* [主材](装修选材/主材.md)
+* [辅材(基材)](装修选材/辅材(基材).md)
+* [设备](装修选材/设备.md)
+* [五金](装修选材/五金.md)
+* [配件](装修选材/配件.md)
 
 1. 客厅卧室需要的材料：
     - 建材类：地砖、油漆、踢脚线、地板、涂料、石膏线
